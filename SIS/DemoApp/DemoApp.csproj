@@ -9,4 +9,14 @@
     <ProjectReference Include="..\SIS.MVCFramework\SIS.MVCFramework.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwrooot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="wwwrooot\favicon.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

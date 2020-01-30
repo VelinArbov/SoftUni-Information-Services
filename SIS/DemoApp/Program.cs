@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Text;
 using System.Threading.Tasks;
 using SIS.HTTP;
@@ -28,7 +29,9 @@ namespace DemoApp
 
         private static HttpResponse FavIcon(HttpRequest request)
         {
-            throw new NotImplementedException();
+            var byteContent = File.ReadAllBytes("wwwrooot/favicon.ico");
+            return new FileResponse(byteContent, "image/x-icon");
+
         }
 
         private static HttpResponse Contact(HttpRequest request)

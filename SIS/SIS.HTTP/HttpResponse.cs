@@ -6,7 +6,8 @@ namespace SIS.HTTP
 {
     public class HttpResponse
     {
-        public HttpResponse(HttpResponseCode statusCode, byte[] body):this()
+        public HttpResponse(HttpResponseCode statusCode, byte[] body)
+            : this()
         {
             this.StatusCode = statusCode;
             this.Body = body;
@@ -44,8 +45,7 @@ namespace SIS.HTTP
                 _ => "HTTP/1.1",
             };
 
-            responseAsString.Append($"{httpVersionAsString} {(int) this.StatusCode} {this.StatusCode}" +
-                                    GlobalConstants.NewLine);
+            responseAsString.Append($"{httpVersionAsString} {(int)this.StatusCode} {this.StatusCode}" + GlobalConstants.NewLine);
             foreach (var header in this.Headers)
             {
                 responseAsString.Append(header.ToString() + GlobalConstants.NewLine);
@@ -53,8 +53,7 @@ namespace SIS.HTTP
 
             foreach (var cookie in this.Cookies)
             {
-                responseAsString.Append("Set-Cookie: " + cookie.ToString() + GlobalConstants.NewLine);
-                ;
+                responseAsString.Append("Set-Cookie: " + cookie.ToString() + GlobalConstants.NewLine); ;
             }
 
             responseAsString.Append(GlobalConstants.NewLine);
