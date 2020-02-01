@@ -14,12 +14,11 @@ namespace DemoApp
     {
         static async Task Main(string[] args)
         {
+          
+
+
             var routeTable = new List<Route>();
-            routeTable.Add(new Route("/",HttpMethodType.Get,Index));
-            routeTable.Add(new Route("/users/login",HttpMethodType.Get,Login));
-            routeTable.Add(new Route("/users/login",HttpMethodType.Post,DoLogin));
-            routeTable.Add(new Route("/users/login",HttpMethodType.Get,Contact));
-            routeTable.Add(new Route("/favicon.ico",HttpMethodType.Get,FavIcon));
+          
 
 
 
@@ -27,44 +26,13 @@ namespace DemoApp
             await httpServer.StartAsync();
         }
 
-        private static HttpResponse FavIcon(HttpRequest request)
+        private static HttpResponse CreateTweet(HttpRequest request)
         {
-            var byteContent = File.ReadAllBytes("wwwrooot/favicon.ico");
-            return new FileResponse(byteContent, "image/x-icon");
-
+            return  new HtmlResponse("");
         }
 
-        private static HttpResponse Contact(HttpRequest request)
-        {
-            var content = "<h1>Contact</h1>";
+      
      
-            return new HtmlResponse(content);
-        }
-
-
-        public static HttpResponse Index(HttpRequest request)
-        {
-            var content = "<h1>Home page</h1>";
-        
-
-            return new HtmlResponse(content);
-        }
-
-        public static HttpResponse Login(HttpRequest request)
-        {
-            var content = "<h1>Login page</h1>";
-
-            return new HtmlResponse(content);
-        }
-
-
-        public static HttpResponse DoLogin(HttpRequest request)
-        {
-            var content = "<h1>Login page</h1>";
-
-
-            return new HtmlResponse(content);
-        }
     }
 
 }

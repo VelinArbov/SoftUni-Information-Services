@@ -75,9 +75,9 @@ namespace SIS.HTTP
                 else
                 {
                     sessionId = Guid.NewGuid().ToString();
-                    var dictonary = new Dictionary<string, string>();
-                    this.sessions.Add(sessionId, dictonary);
-                    request.SessionData = dictonary;
+                    var dictionary = new Dictionary<string, string>();
+                    this.sessions.Add(sessionId, dictionary);
+                    request.SessionData = dictionary;
                 }
                 Console.WriteLine($"{request.Method} {request.Path}");
                 Console.WriteLine(new string('=', 60));
