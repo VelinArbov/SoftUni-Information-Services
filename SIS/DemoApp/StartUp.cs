@@ -13,9 +13,9 @@ namespace DemoApp
     {
         public void Configure(IList<Route> routeTable)
         {
-            routeTable.Add(new Route("/", HttpMethodType.Get, Index));
-            routeTable.Add(new Route("/Tweets/Create", HttpMethodType.Get, CreateTweet));
-            routeTable.Add(new Route("/favicon.ico", HttpMethodType.Get, FavIcon));
+            //routeTable.Add(new Route("/", HttpMethodType.Get, Index));
+            //routeTable.Add(new Route("/Tweets/Create", HttpMethodType.Get, CreateTweet));
+            //routeTable.Add(new Route("/favicon.ico", HttpMethodType.Get, FavIcon));
         }
 
         public void ConfugreServices()

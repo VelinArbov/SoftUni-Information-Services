@@ -1,10 +1,8 @@
 ﻿<h1>Hello, @Model.Name</h1>
-<h2>@Model.Year year!</h2>
-
-
+<p>It is @Model.Year year!</p>
 <ul>
-    foreach(var num in @Model.Numbers)
+    @foreach(var num in Model.Numbers)
     {
-    <li>num</li>
+    <li>@Math.Log10(num)</li>
     }
 </ul>

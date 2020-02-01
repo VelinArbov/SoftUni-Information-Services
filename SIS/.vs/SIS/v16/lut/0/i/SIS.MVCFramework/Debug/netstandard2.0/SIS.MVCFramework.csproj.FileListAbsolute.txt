@@ -1,0 +1,6 @@
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\.vs\SIS\v16\lut\0\b\SIS.MVCFramework\Debug\netstandard2.0\SIS.MVCFramework.deps.json
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\.vs\SIS\v16\lut\0\b\SIS.MVCFramework\Debug\netstandard2.0\SIS.MVCFramework.dll
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\.vs\SIS\v16\lut\0\i\SIS.MVCFramework\Debug\netstandard2.0\SIS.MVCFramework.AssemblyInfoInputs.cache
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\.vs\SIS\v16\lut\0\i\SIS.MVCFramework\Debug\netstandard2.0\SIS.MVCFramework.AssemblyInfo.cs
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\.vs\SIS\v16\lut\0\i\SIS.MVCFramework\Debug\netstandard2.0\SIS.MVCFramework.csproj.CopyComplete
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\.vs\SIS\v16\lut\0\i\SIS.MVCFramework\Debug\netstandard2.0\SIS.MVCFramework.dll

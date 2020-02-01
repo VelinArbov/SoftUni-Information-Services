@@ -1,0 +1,3 @@
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\.vs\SIS\v16\lut\0\i\DemoApp\Debug\netcoreapp3.1\DemoApp.csprojAssemblyReference.cache
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\.vs\SIS\v16\lut\0\i\DemoApp\Debug\netcoreapp3.1\DemoApp.AssemblyInfoInputs.cache
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\.vs\SIS\v16\lut\0\i\DemoApp\Debug\netcoreapp3.1\DemoApp.AssemblyInfo.cs

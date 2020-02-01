@@ -1,0 +1,7 @@
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\.vs\SIS\v16\lut\0\b\SIS.HTTP\Debug\netstandard2.0\SIS.HTTP.deps.json
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\.vs\SIS\v16\lut\0\b\SIS.HTTP\Debug\netstandard2.0\SIS.HTTP.dll
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\.vs\SIS\v16\lut\0\i\SIS.HTTP\Debug\netstandard2.0\SIS.HTTP.csprojAssemblyReference.cache
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\.vs\SIS\v16\lut\0\i\SIS.HTTP\Debug\netstandard2.0\SIS.HTTP.AssemblyInfoInputs.cache
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\.vs\SIS\v16\lut\0\i\SIS.HTTP\Debug\netstandard2.0\SIS.HTTP.AssemblyInfo.cs
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\.vs\SIS\v16\lut\0\i\SIS.HTTP\Debug\netstandard2.0\SIS.HTTP.csproj.CopyComplete
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\.vs\SIS\v16\lut\0\i\SIS.HTTP\Debug\netstandard2.0\SIS.HTTP.dll
