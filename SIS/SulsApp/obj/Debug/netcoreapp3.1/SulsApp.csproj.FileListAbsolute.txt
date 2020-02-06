@@ -81,3 +81,8 @@ C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\SulsApp\bin\Debug\
 C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\SulsApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\SulsApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\SulsApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Error.html
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Home\IndexLoggedIn.html
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Problems\Create.html
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Problems\Details.html
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\SulsApp\bin\Debug\netcoreapp3.1\wwwroot\favicon.ico

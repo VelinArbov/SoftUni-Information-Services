@@ -83,7 +83,7 @@ namespace SIS.HTTP
                 Console.WriteLine(new string('=', 60));
                 var route = this.routeTable.FirstOrDefault(
                     x => x.HttpMethod == request.Method
-                    && x.Path == request.Path);
+                    && x.Path.ToLower() == request.Path.ToLower());
                 HttpResponse response;
                 if (route == null)
                 {
