@@ -86,3 +86,17 @@ C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\SulsApp\bin\Debug\
 C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Problems\Create.html
 C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Problems\Details.html
 C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\SulsApp\bin\Debug\netcoreapp3.1\wwwroot\favicon.ico
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Shared\Error.html
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\SulsApp\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\SulsApp\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\SulsApp\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\SulsApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\SulsApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\SulsApp\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\SulsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\SulsApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\SulsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\SulsApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\SulsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Velin Arbov\Desktop\SoftUni-Information-Services\SIS\SulsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
